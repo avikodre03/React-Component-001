@@ -1,0 +1,14 @@
+.headercontainer{ 
+    width: 99%;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+   
+}
+ .headercontainer h1{
+    font-size: 2rem;
+ }
+ .headercontainer div a{
+   color: blue;
+ }
